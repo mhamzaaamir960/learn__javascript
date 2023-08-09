@@ -1,4 +1,4 @@
-"use strict" // treat al js code in new version
+"use strict" // treat all js code in new version
 
 // alert (3+3) // we are using browser not js
 
