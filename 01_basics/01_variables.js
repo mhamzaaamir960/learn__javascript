@@ -1,4 +1,4 @@
-const { log, table } = require("console");
+
 
 const account_id = 14413;
 let account_email = "hamza@gmail.com";
