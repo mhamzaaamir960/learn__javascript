@@ -1,2 +1,2 @@
-# learn__javascript
-Learn javascript from Hitesh choudhary on chai aur code youtube channel
+# learn _ javascript
+Learn javascript from Hitesh Choudhary on chai aur code youtube channel
