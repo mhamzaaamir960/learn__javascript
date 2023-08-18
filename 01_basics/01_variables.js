@@ -10,7 +10,7 @@ let account_state;
 // account_id = 85943; not allowed
 
 console.log(account_id);
-
+ 
 /* prefer not to use var
 because of issue in block scope and functional scope
 */
